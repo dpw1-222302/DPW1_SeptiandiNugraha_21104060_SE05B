@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap");
+
+body {
+  background-color: #495664;
+  font-family: "Mukta", sans-serif;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.navbar-dark .navbar-nav .nav-link,
+.navbar-dark .navbar-text {
+  color: #f8fceb;
+}
+
+.jumbotron h1 h5 p {
+  font-family: "Mukta", sans-serif;
+}
+
+footer .copyright {
+  justify-content: center;
+}
