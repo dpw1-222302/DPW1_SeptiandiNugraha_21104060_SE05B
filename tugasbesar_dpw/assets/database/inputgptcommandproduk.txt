@@ -1,0 +1,84 @@
+command1 (produk):
+di tabel produk saya mempunyai kolom seperti ini
+tolong masukkan query saya untuk bagian produk ini dengan data seperti ini
+id_produk | id_pnjl | nama_produk | dkps_produk | harga	| stock	
+1. Produk Paket Mebel 1
+id_produk = dimulai dari 1 karena auto increment
+id_pnjl = XX44BA
+nama_produk = paketmebel1
+dkps_produk = Sofa Cream Empuk kami adalah simbol sempurna dari kesempurnaan dan kenyamanan yang memikat. Dirancang dengan gaya minimalis modern, sofa ini menggabungkan sentuhan elegan dan kesederhanaan yang memukau. Setiap detailnya dirancang untuk memberikan kenyamanan maksimal bagi Anda dan keluarga. Dibuat dari bahan jati pilihan asli dari daerah Blora, kualitasnya tak tertandingi. Kekuatan dan ketahanan kayu jati memberikan jaminan masa pakai jangka panjang. Dalam perpaduan harmonis dengan warna Tropical Cream Calm, sofa ini menyampaikan nuansa santai dan sejuk di setiap sudut ruang keluarga Anda.
+harga = Rp 5.500.000
+stock = 100
+
+2. Produk Paket Mebel 2
+id_produk = auto increment
+id_pnjl = XX44BA
+nama_produk = paketmebel2
+dkps_produk = Paket Mebel 2 dengan bahan rotan kami adalah pilihan sempurna untuk menciptakan suasana alami dan hangat dalam desain interior Anda. Dibuat dengan menggunakan rotan berkualitas tinggi, set mebel ini menawarkan daya tahan yang luar biasa dan sentuhan alami yang memikat. Dengan desain yang elegan dan detail pengerjaan yang teliti, set mebel ini akan menjadi tambahan indah untuk ruang keluarga atau teras Anda.
+harga = Rp 3.500.000
+stock = 100
+
+3. Produk Paket Mebel 3
+id_produk = auto increment
+id_pnjl = XX44BA
+nama_produk = paketmebel3
+dkps_produk = Dapatkan suasana hangat dan menyambut dalam ruangan Anda dengan Paket Mebel 3 yang menghadirkan sentuhan elegan dalam desainnya. Terbuat dari bahan kayu jati pilihan yang tahan lama dan kokoh, setiap potongan mebelnya dibuat dengan keahlian tinggi untuk mencapai kualitas terbaik. Kursi empuk dan sandaran yang lembut menawarkan kenyamanan optimal, menjadi tempat ideal untuk bersantai setelah hari yang melelahkan. Warna Natural Oak yang indah menambahkan sentuhan alami ke ruang keluarga Anda, sementara detail kayu yang halus memberikan kesan artistik dan estetika yang memikat.
+harga = Rp 1.000.000
+stock = 100
+
+4. Produk Paket Mebel 4
+id_produk = auto increment
+id_pnjl = XX44BA
+nama_produk = paketmebel4
+dkps_produk = Paket Mebel 4 adalah pilihan sempurna untuk menciptakan suasana ruangan yang elegan dan modern. Dibuat dengan perpaduan harmonis antara bahan kayu mahoni berkualitas tinggi dan desain minimalis yang chic, setiap elemen mebelnya mencerminkan keanggunan dan ketangguhan. Dengan warna Rich Brown yang mewah dan nuansa hangatnya, paket mebel ini akan memberikan sentuhan yang memikat ke interior rumah Anda. Dirancang untuk memberikan kenyamanan tanpa kompromi, sofa empuk dan kursi yang ergonomis memberikan tempat yang menyenangkan untuk bersantai dan berkumpul bersama keluarga.
+harga = Rp 2.500.000
+stock = 100
+
+5. Produk Paket Mebel 5
+id_produk = auto increment
+id_pnjl = XX44BA
+nama_produk = paketmebel5
+dkps_produk = Paket Mebel 5 adalah jawaban atas keinginan Anda untuk menciptakan ruang keluarga yang serba lengkap dan nyaman. Terdiri dari rangkaian mebel dengan desain yang modern dan fungsional, paket ini menyajikan perpaduan yang sempurna antara keindahan visual dan kenyamanan fungsional. Dibuat dari kayu jati pilihan yang kokoh dan tahan lama, setiap elemen mebel dalam paket ini menampilkan keanggunan alami kayu yang timeless. Warna Caramel Brown-nya memberikan sentuhan hangat yang menyambut, menciptakan atmosfer yang menyenangkan untuk berkumpul bersama keluarga tercinta.
+harga = Rp 2.500.000
+stock = 100
+
+6. Produk Paket Mebel 6
+id_produk = auto increment
+id_pnjl = XX44BA
+nama_produk = paketmebel6
+dkps_produk = Paket Mebel 6 adalah pilihan ideal bagi Anda yang mengutamakan gaya dan fungsionalitas dalam desain interior ruangan. Dengan sentuhan modern minimalis, setiap elemen mebel dalam paket ini menawarkan kepraktisan dan kesan estetika yang menarik. Dibuat dengan menggunakan bahan berkualitas tinggi, paket ini menawarkan kualitas yang tahan lama serta nilai estetika yang mengagumkan. Warna Ebony Black-nya memberikan kesan elegan dan mewah, menciptakan suasana yang mampu meningkatkan keindahan setiap sudut ruangan Anda.
+harga = Rp 500.000
+stock = 100
+
+7. Produk Paket Mebel 7
+id_produk = auto increment
+id_pnjl = XX44BA
+nama_produk = paketmebel7
+dkps_produk = Paket Mebel 6 adalah pilihan ideal bagi Anda yang mengutamakan gaya dan fungsPaket Mebel 7 adalah simbol keanggunan dan kemewahan dalam desain interior. Dengan perpaduan gaya klasik dan modern, paket ini menawarkan kesan yang elegan dan timeless. Terbuat dari bahan kayu mahoni berkualitas tinggi, setiap mebel dalam paket ini menawarkan keindahan yang abadi dan ketahanan yang kokoh. Warna Rich Mahogany-nya memberikan sentuhan hangat dan mewah, menciptakan suasana yang mengundang untuk setiap ruangan.
+harga = Rp 3.500.000
+stock = 100
+
+
+8. Produk Paket Mebel 8
+id_produk = auto increment
+id_pnjl = XX44BA
+nama_produk = paketmebel8
+dkps_produk = Paket Mebel 8 menghadirkan keanggunan sederhana dengan sentuhan kontemporer yang memikat. Terbuat dari bahan kayu pinus berkualitas tinggi, setiap mebel dalam paket ini menampilkan keindahan alami dan nuansa hangat yang mengundang. Dengan warna Natural Pine yang elegan, paket ini akan memberikan kesan segar dan menyenangkan pada desain interior rumah Anda.
+harga = Rp 1.200.000
+stock = 100
+
+
+9. Produk Paket Mebel 9
+id_produk = auto increment
+id_pnjl = XX44BA
+nama_produk = paketmebel9
+dkps_produk = Paket Mebel 9 adalah pilihan sempurna bagi Anda yang mengutamakan kesederhanaan dan fungsi dalam desain interior rumah. Dengan gaya minimalis yang elegan, set mebel ini menawarkan kualitas terbaik tanpa mengorbankan kenyamanan. Terdiri dari sofa dua dudukan, meja kopi, dan rak buku bergaya modern, Paket Mebel 9 akan memberikan sentuhan modern dan suasana yang nyaman di ruang keluarga atau ruang tamu Anda.
+harga = Rp 1.100.000
+stock = 100
+
+command2 (user_penjual):
+di tabel user_penjual saya mempunyai kolom seperti ini
+id_pnjl | nama_pnjl	
+tolong masukkan query saya untuk bagian produk ini dengan data seperti ini
+id_pnjl = XX44BA
+nama_pnjl = "Susi Maranatha"

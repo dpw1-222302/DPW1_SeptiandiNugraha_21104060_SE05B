@@ -1,0 +1,37 @@
+html {
+  margin: 0;
+  padding: 0;
+  font-family: "Overpass", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #ddd4cb;
+}
+
+.back-button {
+  text-decoration: none;
+  width: 188px;
+  height: 19px;
+  left: 626px;
+  top: 500px;
+  position: absolute;
+  text-align: center;
+  color: #0b666a;
+  font-size: 20px;
+  font-family: Overpass;
+  font-weight: 700;
+  word-wrap: break-word;
+  cursor: pointer;
+  transition: font-size 0.5s;
+}
+
+.back-button:hover {
+  color: #0b666a;
+  font-size: 22px;
+}
+
+.back-button:active {
+  font-size: 18px;
+}
