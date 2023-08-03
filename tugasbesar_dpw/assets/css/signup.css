@@ -1,0 +1,65 @@
+html {
+  margin: 0;
+  padding: 0;
+  font-family: "Overpass", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #ddd4cb;
+}
+
+.container {
+  height: 100%;
+}
+
+.signinpicture img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.content {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.back-button {
+  text-decoration: none;
+  width: 253px;
+  height: 19px;
+  left: 954px;
+  top: 650px;
+  position: absolute;
+  text-align: center;
+  color: #493535;
+  font-size: 13px;
+  font-family: Overpass;
+  font-weight: 400;
+  word-wrap: break-word;
+  cursor: pointer;
+  transition: font-size 0.5s;
+}
+
+.back-button:hover {
+  color: #493535;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.back-button:active {
+  font-size: 13px;
+}
+
+.signup-link {
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.signup-link:hover {
+  transform: scale(1.1);
+}
